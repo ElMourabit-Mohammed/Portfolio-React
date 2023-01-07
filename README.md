@@ -17,9 +17,13 @@ I hope you enjoy exploring my portfolio!
 To run this portfolio locally on your own machine, follow these steps:
 
  ▶️ Make sure you have Node.js and npm installed.
+ 
  ▶️ Clone this repository and navigate to the root directory.
+ 
  ▶️ Run npm install to install the necessary dependencies.
+ 
  ▶️ Run npm start to start the development server.
+ 
  ▶️ The portfolio should now be available at http://localhost:3000/.
 
 ## Authors ™️
